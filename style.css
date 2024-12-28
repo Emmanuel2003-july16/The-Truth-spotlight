@@ -1,0 +1,12 @@
+body{
+
+ background-color: gold;
+}
+p{
+    background-color: lightblue;
+}
+hr{
+    height: 3px;
+    color: springgreen;
+    border-style: none;
+}
